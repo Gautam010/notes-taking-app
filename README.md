@@ -39,7 +39,7 @@ Application also has feature for signup and login and also authentication and au
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/note-taking-api.git
+   git clone https://github.com/Gautam010/notes-taking-app.git
 
 2. Navigate to the project directory:
 
